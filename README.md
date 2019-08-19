@@ -4,26 +4,26 @@ Cassie, a premium quality dashboard and admin template built on top of Bootstrap
 
 ## Features
 - Latest Bootstrap 4.3.1
-Fully Responsive Layout
-SASS Powered
-jQuery Powered
-90 HTML5 Templates
-1000+ Font Icons
-Hundreds of reusable ui components
-Dashboard Cards & Widgets
-Blog and Social Media Cards & Widgets
-Events and Web Services Cards & Widgets
-Responsive Sidebar Menu
-One Page Capable
-Navigation Layouts
-Stunning dashboard charts (Flot, Morris, Chart.js,Sparkline, Peity)
-Form Validation
-Form Wizards
-WYSIWYG Editor
-Colored Tables and DataTables
-Google Maps, Leaflet Maps, jQVMap
-5 Template Skins
-Addon Utilities and Helper Classes
-Unlimited Theme Possibilities
-FREE Lifetime Updates
-and much much more…
+- Fully Responsive Layout
+- SASS Powered
+- jQuery Powered
+- 90 HTML5 Templates
+- 1000+ Font Icons
+- Hundreds of reusable ui components
+- Dashboard Cards & Widgets
+- Blog and Social Media Cards & Widgets
+- Events and Web Services Cards & Widgets
+- Responsive Sidebar Menu
+- One Page Capable
+- Navigation Layouts
+- Stunning dashboard charts (Flot, Morris, Chart.js,Sparkline, Peity)
+- Form Validation
+- Form Wizards
+- WYSIWYG Editor
+- Colored Tables and DataTables
+- Google Maps, Leaflet Maps, jQVMap
+- 5 Template Skins
+- Addon Utilities and Helper Classes
+- Unlimited Theme Possibilities
+- FREE Lifetime Updates
+- and much much more…
